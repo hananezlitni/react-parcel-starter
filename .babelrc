@@ -5,6 +5,16 @@
       {
         "regenerator": true
       }
+    ],
+    [
+      "react-css-modules",
+      {
+        "filetypes": {
+          ".scss": {
+            "syntax": "postcss-scss"
+          }
+        }
+      }
     ]
   ]
 }
