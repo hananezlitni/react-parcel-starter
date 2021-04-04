@@ -11,13 +11,11 @@ html {
   }
 }
 body {
-  height: 100vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: $polar-night-1;
-  color: $snow-storm-2;
+  background-color: $background-color;
 }
 a {
-  color: $frost-1;
+  color: $link-color;
 }
 #root {
   height: 100vh;
