@@ -10,7 +10,13 @@ const Main = () => {
           ✨
         </span>
       </h1>
-      <p>Welcome!</p>
+      <p>
+        Check out the{" "}
+        <a href="https://github.com/hananezlitni/react-parcel-starter">
+          repository
+        </a>{" "}
+        to get started.
+      </p>
     </main>
   );
 };

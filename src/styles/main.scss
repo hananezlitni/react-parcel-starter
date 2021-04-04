@@ -16,7 +16,10 @@ body {
   background-color: $polar-night-1;
   color: $snow-storm-2;
 }
-.container {
+a {
+  color: $frost-1;
+}
+#root {
   height: 100vh;
   display: flex;
   flex-direction: column;
