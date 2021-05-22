@@ -4,7 +4,7 @@ A minimal React starter, bundled with Parcel, that I usually use in my React pro
 
 ## Configurations
 
-- React (v17)
+- React (v17) with Reach Router
 - Parcel
 - SCSS modules
 - ESLint
