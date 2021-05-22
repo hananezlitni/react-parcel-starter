@@ -10,25 +10,6 @@ A minimal React starter, bundled with Parcel, that I usually use in my React pro
 - ESLint
 - Prettify
 
-## Folder Structure in `/src`
-
-```bash
-├── src
-│   ├── components
-│   │   └── componentA
-│   │       ├── componentA.js
-│   │       └── componentA.module.scss
-│   │       componentB
-│   │       ├── componentB.js
-│   │       └── componentB.module.scss
-│   └── styles
-│       ├── main.scss #Global styles
-│       └── variables.scss #SCSS variables
-│   ├── App.js # Start editing here
-│   └── index.html
-└──
-```
-
 ## Project Setup
 
 ```bash
